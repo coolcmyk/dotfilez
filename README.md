@@ -1,2 +1,2 @@
-# dotfilez
+# dotfiles
 ye
